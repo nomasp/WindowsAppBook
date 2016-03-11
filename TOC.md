@@ -1,4 +1,4 @@
-- [关于本书](author.md)
+
 - 开发准备
   - [操作系统及 SDK](os-sdk.md) 
   - [Windows App 简介](windows-app.md) 
