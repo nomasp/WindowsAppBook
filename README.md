@@ -10,7 +10,7 @@ Windows 开发爱好者及应用开发初学者。
 
 学习本教程前，你需要预装 Windows 10 操作系统，同时需要你了解 C# 这门编程语言。
 
-鸣谢作者：[柯于旺](http://my.csdn.net/NoMasp)
+鸣谢作者：[柯于旺](http://blog.csdn.net/nomasp)
 
 ### 版权说明
 
