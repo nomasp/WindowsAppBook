@@ -14,7 +14,7 @@ Windows 开发爱好者及应用开发初学者。
 
 ## 关于作者
 
-柯于旺（英文名 nomasp），湖北黄石人，现于江苏科技大学读大三。CSDN2015年度博客之星，欢迎访问我的博客，地址为：<a href="http://blog.csdn.net/nomasp" target="_blank">blog.csdn.net/nomasp</a> 。专注于移动开发、算法，对图像处理及函数式编程（Lisp）有浓厚的兴趣。
+柯于旺（英文名 nomasp），CSDN2015年度博客之星，欢迎访问我的博客，地址为：<a href="http://blog.csdn.net/nomasp" target="_blank">blog.csdn.net/nomasp</a> 。专注于移动开发、算法，对图像处理及函数式编程（Lisp）有浓厚的兴趣。
 
 QQ交流群：<a href="http://jq.qq.com/?_wv=1027&k=2Hju2Xm" target="_blank">微软技术交流群</a> 
 
